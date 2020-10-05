@@ -50,6 +50,7 @@ $ yarn dev
 ```bash
 # open new cmd in project
 $ cd chatserver-dev
+$ npm install
 $ nodemon
 ```
 
