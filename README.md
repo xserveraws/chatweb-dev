@@ -25,7 +25,7 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 [Node 12](https://nodejs.org/en/download/)
 
-then restart
+then restart PC
 
 ### install yarn and nodemon
 
@@ -44,16 +44,3 @@ $ npm install -g nodemon
 $ yarn install
 $ yarn dev
 ```
-
-### server(socket + api)
-
-```bash
-# open new cmd in project
-$ cd chatserver-dev
-$ npm install
-$ nodemon
-```
-
-### detail
-
-(socket + api) run at port 3001
